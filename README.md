@@ -40,7 +40,7 @@ O objetivo principal do projeto Login Rails é oferecer uma solução robusta e 
 
 
 <a href="https://loginrails.fly.dev/">
-    <img src="https://img.shields.io/badge/ACESSO O%20SITE!-darkgreen" alt="Site">
+    <img src="https://img.shields.io/badge/ACESSO AO%20PROJETO!-darkgreen" alt="Site">
 </a>
 
 
